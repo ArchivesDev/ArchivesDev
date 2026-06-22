@@ -1,6 +1,6 @@
-<h1 align="center">Hola, soy Archives 👋</h1>
+<h1 align="center">Hi, I'm Archives 👋</h1>
 
-<p align="center">Desarrollador, apasionado por la programación, la lógica y la ciberseguridad.</p>
+<p align="center">Developer, passionate about programming, logic, and cybersecurity.</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/wrrulosdev/wrrulosdev/main/banner.gif" alt="Banner" width="100%">
@@ -8,34 +8,34 @@
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About me
 
-* 🇨🇴 Soy un desarrollador de Colombia, interesado en cómo funcionan las cosas internamente.
-* 🔥 Me apasiona la programación, el aprendizaje continuo y la resolución de problemas con lógica y paciencia.
-* ⚛️ Actualmente estoy enfocado en el desarrollo web Full-Stack y en aprender a crear aplicaciones robustas.
-* 🤖 Me gustan mucho los bots automatizados y los análisis predictivos.
-* 💡 Siempre abierto a nuevos temas, ideas y tecnologías.
-* 📬 Contacto: [juandilc87@gmail.com](mailto:juandilc87@gmail.com)
-
----
-
-### 🌱 Actualmente aprendiendo
-
-* Python orientado a análisis de datos, bots de automatización y modelos predictivos.
-* Herramientas de ciberseguridad, hacking ético, laboratorios en entornos virtuales y escaneo de redes.
-* Optimización de sistemas, hardware y administración técnica de servidores.
+* 🇨🇴 I'm a developer from Colombia, interested in how things work under the hood.
+* 🔥 I'm passionate about programming, continuous learning, and solving problems with logic and patience.
+* ⚛️ Currently, I'm focused on Full-Stack web development and learning how to build robust applications.
+* 🤖 I really enjoy automated bots and predictive analysis.
+* 💡 Always open to new topics, ideas, and technologies.
+* 📬 Contact: [juandilc87@gmail.com](mailto:juandilc87@gmail.com)
 
 ---
 
-### 🚀 Proyectos destacados
+### 🌱 Currently learning
 
-* **GreenStar**: Un proyecto de desarrollo web interactivo estructurado con HTML, CSS, JavaScript y PHP para la gestión dinámica de contenido.
-* **La Choza**: Aplicación web Full-Stack integrada con bases de datos MySQL, manejo de sesiones de usuario y interfaces personalizadas.
-* **ArchivesDev**: Bots automatizados en Python diseñados para análisis de probabilidades en mercados en tiempo real y análisis de sentimiento.
+* Python focused on data analysis, automation bots, and predictive models.
+* Cybersecurity tools, ethical hacking, virtual environment labs, and network scanning.
+* System optimization, hardware, and technical server administration.
 
 ---
 
-### 🛠️ Pila actual
+### 🚀 Featured projects
+
+* **GreenStar**: An interactive web development project structured with HTML, CSS, JavaScript, and PHP for dynamic content management.
+* **La Choza**: A Full-Stack web application integrated with MySQL databases, user session management, and custom interfaces.
+* **ArchivesDev**: Automated Python bots designed for real-time market probability analysis and sentiment analysis.
+
+---
+
+### 🛠️ Current stack
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>&nbsp;
@@ -54,19 +54,19 @@
 
 <!--
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
 </p>
 -->
 ---
 
-### 🌐 Contacto
+### 🌐 Connect with me
 
 <p align="center">
-  <a href="mailto:juandilc87@gmail.co">
+  <a href="mailto:juandilc87@gmail.com">
     <img src="https://img.shields.io/badge/email-juandilc87%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>&nbsp;
   <a href="Archives">
