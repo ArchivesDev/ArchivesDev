@@ -70,6 +70,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="Archives">
-    <img src="https://img.shields.io/badge/discord-TU_USUARIO_DE_DISCORD-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/discord-Archives-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
