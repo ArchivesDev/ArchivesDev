@@ -3,7 +3,7 @@
 <p align="center">Developer, passionate about programming, logic, and cybersecurity.</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wrrulosdev/wrrulosdev/main/banner.gif](https://raw.githubusercontent.com/googleusercontent/image_generation_content/265/watermarked_img_13198837261657822961.png)" alt="Banner" width="100%">
+  <img src="ai-avatar.png" alt="Archives AI Coding" width="85%">
 </p>
 
 ---
