@@ -70,6 +70,6 @@
     <img src="https://img.shields.io/badge/email-juandilc87%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>&nbsp;
   <a href="Archives">
-    <img src="https://img.shields.io/badge/discord-Archives-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/discord-Archiveszs-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
