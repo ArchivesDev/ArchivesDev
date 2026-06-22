@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Juan Diego 👋</h1>
+<h1 align="center">Hola, soy Archives 👋</h1>
 
 <p align="center">Desarrollador, apasionado por la programación, la lógica y la ciberseguridad.</p>
 
@@ -10,7 +10,7 @@
 
 ### 🧠 Sobre mí
 
-* 🇨🇴 Soy un desarrollador de Medellín, Colombia, interesado en cómo funcionan las cosas internamente.
+* 🇨🇴 Soy un desarrollador de Colombia, interesado en cómo funcionan las cosas internamente.
 * 🔥 Me apasiona la programación, el aprendizaje continuo y la resolución de problemas con lógica y paciencia.
 * ⚛️ Actualmente estoy enfocado en el desarrollo web Full-Stack y en aprender a crear aplicaciones robustas.
 * 🤖 Me gustan mucho los bots automatizados y los análisis predictivos.
