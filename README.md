@@ -10,7 +10,7 @@
 
 ### 🧠 About me
 
-* 🇨🇴 I'm a developer from Colombia, interested in how things work under the hood.
+* 🛠️ I'm a developer from Colombia, interested in how things work under the hood.
 * 🔥 I'm passionate about programming, continuous learning, and solving problems with logic and patience.
 * ⚛️ Currently, I'm focused on Full-Stack web development and learning how to build robust applications.
 * 🤖 I really enjoy automated bots and predictive analysis.
